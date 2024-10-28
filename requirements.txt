@@ -8,3 +8,4 @@ langchain_ai21
 langchain_community
 SQLAlchemy
 python-multipart
+chromadb
