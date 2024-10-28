@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+PyMuPDF
+python-dotenv
+langchain_ai21
+langchain_community
+SQLAlchemy
